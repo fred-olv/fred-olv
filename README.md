@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
-<p>Contatos: linkedin.com/in/frederico-olv</p>
+<p>Contatos: <a href="linkedin.com/in/frederico-olv</p>"target="_blank">LinkedIn</a></p>
