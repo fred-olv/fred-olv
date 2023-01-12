@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p>Procurando pelo meu espaço no mundo de Front-end!</p>
 
-<h2>Tecnologias</h2>
+<h2>Tecnologias:</h2>
 
 <ul>
   <li>HTML5</li>
