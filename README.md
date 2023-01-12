@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>🤖 Sobre mim!</h1>
 
 <!--
 **fred-olv/fred-olv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Procurando pelo meu espaço no mundo de Front-end!
